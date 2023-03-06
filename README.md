@@ -9,7 +9,7 @@ The project takes inspiration and reference from other projects such as tominabo
 
 ## Layout
 
-![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/KLE.png)
+![](https://github.com/calvin-mcd/qazimodo/blob/main/Images/KLE.png)
 
 [Link](http://www.keyboard-layout-editor.com/\#/gists/fcfe4194cc3239e0c420215ebe271a12)
   
