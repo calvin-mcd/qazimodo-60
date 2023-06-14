@@ -19,7 +19,7 @@ The project takes inspiration and reference from other projects such as tominabo
 
 ## Disclaimer
 
-This PCB has been not been fully tested yet. Nor has case compatibility been fully confirmed. The members of the PCB development team are not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
+Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
 
 ## License
 
