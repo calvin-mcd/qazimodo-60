@@ -1,6 +1,6 @@
-# qazimodo
+# qazimodo 60
 
-The qazimodo is a collaboration with Soyo. It is a qaz-like keyboard pcb featuring both a number row and cluster all within a 60% formfactor while offering basekit support. It is designed to fit both traymount as well as most common O-ring mount cases.
+The qazimodo 60 is a collaboration with Soyo. It is a qaz-like keyboard pcb featuring both a number row and cluster all within a 60% formfactor while offering basekit support. It is designed to fit both traymount as well as most common O-ring mount cases.
 
 The project takes inspiration and reference from other projects such as tominabox1 and whydobearsxplod's [QAZ](https://www.cbkbd.com/product/qaz), kkatano#2078's [Bakaneko](https://github.com/kkatano/bakeneko-60), evyd13's [plain60](https://github.com/evyd13/plain60-flex-edition) and dede and Olivia's [SST60](https://github.com/dededecline/SST60).
 
